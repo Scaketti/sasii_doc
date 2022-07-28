@@ -16,13 +16,13 @@ accepts some minor variations of the original format, as described below.
 Both microsatellite and SNP data may be analysed with this package.  
 All data must be included in a matrix in a single file, saved as csv. 
 
-.. image:: /images/data_format1.png
+.. image:: images/data_format1.png
     :alt: This example has one extra column (first column) with individual labels, 
     and one extra row (first row) with loci labels. Each individual is coded in a 
     single row and the two alleles of each locus are coded in two consecutive columns. 
     Microsatellite alleles are coded as fragment sizes, and missing data as zeros (“0”).
 
-.. image:: /images/data_format2.png
+.. image:: images/data_format2.png
     :alt: Example of alternative input datafile with 6 individuals and 6 SNP loci from a diploid species. 
     This example has two extra columns with individual labels (first column) and 
     sampling locations labels (second column), and one extra row (first row) with loci labels. 

@@ -1,9 +1,7 @@
 Usage
 =====
 
-.. _installation:
 
-Installation
-------------
+How to run will be here
 
 

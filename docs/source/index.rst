@@ -19,7 +19,6 @@ Contents
 
    overview
    usage
-   api
 
 .. meta::
     :description lang=en:

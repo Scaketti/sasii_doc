@@ -1,5 +1,5 @@
 Welcome to SaSii's documentation!
-===================================
+=================================
 
 **SaSii** is a R script for estimating genetic parameters from genotypic data for 
 inferring sample size effects on genetic analysis. Applications of this package include 
